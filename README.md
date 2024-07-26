@@ -2,4 +2,4 @@
 
 ## A test readme file
 
-### file informaiton
+### file info
